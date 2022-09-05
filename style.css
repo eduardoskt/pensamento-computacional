@@ -1,6 +1,9 @@
-body(
-   ::backdrop :read-only 
-)
-h1(
-    text color
-)
+body{
+    background-color: black;
+}
+h1{
+    text-align: center; color: brown;
+}
+  {
+    tex
+  } 
